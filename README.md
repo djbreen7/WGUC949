@@ -6,7 +6,7 @@
 - Binary Search
 
 ### Sorting
-- [Selection Sort](./sorting/selection-sort/README)
+- [Selection Sort](./sorting/selection-sort)
 - Insertion Sort
 - Shell Sort
 - Quick Sort
@@ -21,4 +21,3 @@
 - Deques
 - Hash Tables
 - Heaps
-
