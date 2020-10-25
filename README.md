@@ -6,7 +6,7 @@
 - Binary Search
 
 ### Sorting
-- [Selection Sort](sorting/selection-sort/README)
+- [Selection Sort](./sorting/selection-sort/README)
 - Insertion Sort
 - Shell Sort
 - Quick Sort
